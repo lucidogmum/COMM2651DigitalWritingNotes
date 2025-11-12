@@ -43,7 +43,7 @@ On the example digital writing folio click on the "README.md". You should see a 
 
 Edit the `swift-reflections.md` page you just created jot down a few thoughts on the following questions. 
 
-### Your Writing 
+### Swift Reflection: Your Writing 
 
 - What types of writing do you do (e.g. fiction, nonfiction, poetry)?
 - What tools (or techniques) do you use to write? How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
