@@ -3,7 +3,8 @@ teaching notes
 
 # Syllabus
 ## Week 1
-### Wednesday: Introduction to the course, assignment and syllabus overview. Digital Writing Discussion: what is it? what might this unlock for your writing and cretaive ideas? Set up Github account and repository for your Digital Writing Folio. Write first reflection.
+## Wednesday: 
+Introduction to the course, assignment and syllabus overview. Digital Writing Discussion: what is it? what might this unlock for your writing and cretaive ideas? Set up Github account and repository for your Digital Writing Folio. Write first reflection.
 
 ### Defining Electronic Literature  
 - [The Electronic Literature Collections](https://collection.eliterature.org/)
