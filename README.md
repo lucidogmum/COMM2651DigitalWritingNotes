@@ -19,9 +19,6 @@ Introduction to the course, assignment and syllabus overview. Digital Writing Di
 - What do you expect from the digital writing lab?
 - Do you have any early ideas for work you would like explore and develop in this class?
 
-### Digital Writing is not just Publishing Digitally
-- [Woollahra Digital Literary Award](https://www.woollahra.nsw.gov.au/Library/Digital-literary-award)
-
 ## Create a Github account 
 1. Create a [GitHub](https://github.com/) account
 2. Do the ["Hello World" exercise](https://guides.github.com/activities/hello-world/)
